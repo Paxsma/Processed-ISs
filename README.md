@@ -1,4 +1,5 @@
 # Processed-ISs
 
 ## Description
-Pre-processed instruction sets using https://github.com/Paxsma/ISCreator/
+Processed instruction sets using https://github.com/Paxsma/ISCreator/
+They can be used in creating disassemblers, decompilers, analysis engines, etc.
